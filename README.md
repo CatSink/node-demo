@@ -1,43 +1,33 @@
-# Generate README
+# crispy
+ 
+[![License: MIT](https://choosealicense.com/MIT)] 
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribute](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [License](#license)
 
 ## Description
-
-This project is intended to help users generate README files using node.js, inquirer package and json package.
-
+extra nerdy node program
+    
 ## Installation
-
-Installation requires node.js and inquirer package.
-
+clone the node demo repository, install node to your computer then iniate markdown README creation by openning the index.js file in the integrated terminal. Initiate prompts by typing the command node index then pressing the return key.
+  
 ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
-
-## Credits
-
+The README generator can help quickly create a proffessional markdown file.
+  
+## Contributing
+undefined
+  
+## Tests
+none
+  
+## Questions
+For questions about this project, please see my GitHub at [CatSink](https://github.com/CatSink/). 
+You can also reach me by email at Raindropwebweaver@live.com.
+  
 ## License
-
-MIT License
-
-Copyright (c) [2023] [Catherine]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This project is licensed under the MIT license.
